@@ -1,0 +1,23 @@
+Console.WriteLine("Welcome to Grade Management application");
+
+class grade
+//grading system
+{
+    //grade
+    string add;
+
+    string remove;
+
+    string display;
+
+
+
+    //the grade from between 0 and 100
+    void Display()
+
+    {
+        Console.WriteLine("display the avarage grade");
+    }
+
+
+}
